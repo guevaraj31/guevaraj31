@@ -3,11 +3,12 @@
 ## 👋
 
 <a href="https://github.com/guevaraj31/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=guevaraj31&show_icons=true&title_color=000000&icon_color=000000&line_height=40" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=guevaraj31&show_icons=true&line_height=40&theme=tokyonight&hide=issues,prs" />
 </a>
 <a href="https://github.com/guevaraj31?tab=repositories">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=guevaraj31" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=guevaraj31&hide=html,css&theme=tokyonight" />
 </a>
+
 
 Dedicado al desarrollo de software multiplataforma, 
 utilizando lenguajes interpretados y servicios en la nube, 
